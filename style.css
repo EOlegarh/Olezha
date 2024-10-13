@@ -1,0 +1,111 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body {
+    background-image: url(images/PHONE.jpg);
+    background-size: inherit;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: auto;
+    background-color:black;
+    text-align: center;
+}
+header>div>a{
+    text-decoration: none;
+    color: white;
+    border-style: solid;
+    border-width: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    
+}
+.git{
+    border-style: none;
+}
+.gid {
+    padding: 0;
+    border-radius: 0;
+    width: 300px;
+}
+
+.pisanina {
+padding-right: 20px;
+}
+.nachalo{
+display: flex;
+align-items: center;
+justify-content: center;
+padding-left: 60px;
+}
+.nachalo>div>img{
+    border-radius: 20%;
+}
+h1{
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 300px;
+}
+.profileava{
+    padding-right: 150px;
+    padding-top: 300px;
+    padding-left: 50px;   
+}
+.nachalo>div>p{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+.o_sebe{
+    margin-top: 300px;
+    background-color:black;
+    display: flex;
+    justify-content: center;
+}
+.o_sebe>div>p{
+    color: white;  
+}
+.obomne_phone{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    background-color: gray;
+}
+.obomne_info{
+    font-size:13px;
+}
+.Mou_ProektbI{
+    background-color:black;
+    display: flex;
+    justify-content: center;
+}
+.Mou_ProektbI>div>p{
+    color: white   
+}
+.Mou_ProektbI_phone{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    background-color: gray;
+    justify-content: center;
+}
+.podval{
+    background-color: black;
+    height: 50px;
+}
+.podval>div{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.podval>div>p{
+    color: white;
+}
+.tgava>a>img{
+    width: 30px;
+}
