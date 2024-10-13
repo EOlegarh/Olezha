@@ -66,6 +66,7 @@ h1{
     background-color:black;
     display: flex;
     justify-content: center;
+    
 }
 .o_sebe>div>p{
     color: white;  
@@ -75,9 +76,13 @@ h1{
     display: flex;
     align-items: center;
     background-color: gray;
+    justify-content: center;
 }
 .obomne_info{
     font-size:13px;
+    display: flex;
+    align-items: center;
+    text-align: center;
 }
 .Mou_ProektbI{
     background-color:black;
